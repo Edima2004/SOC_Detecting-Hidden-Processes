@@ -83,4 +83,9 @@ kill -63 1
   kill -31 <PID>
   ```
 
+Hide Custom Process
+```bash
+./test_process.sh &
+kill -31 <PID>
+```
 
