@@ -17,14 +17,15 @@ _The objective was to better understand how attackers hide activity and how SOC 
 
 ## Lab Architecture
 
- Kali Linux - Attacker VM 
- Ubuntu - Victim VM 
+ Kali Linux - Attacker VM \
+ Ubuntu - Victim VM \
  Wazuh Server - Monitoring & Detection 
 
 ---
 
 ## Tools Used
 
+- nc tools
 - Git
 - GCC
 - Make
