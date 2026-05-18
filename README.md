@@ -11,7 +11,7 @@ The lab covers:
 - Investigation
 - Incident response
 
-# The objective was to better understand how attackers hide activity and how SOC analysts investigate anomalies in Linux environments.
+_The objective was to better understand how attackers hide activity and how SOC analysts investigate anomalies in Linux environments._
 
 ---
 
