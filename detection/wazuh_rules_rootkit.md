@@ -1,0 +1,1 @@
+# Below are the wazuh rules added to detect rootkit kernel behaviour 
