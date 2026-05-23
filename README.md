@@ -58,4 +58,30 @@ The SOC environment monitors the system for:
 
 ---
 
-## Project Structure
+
+## 5️⃣ Defense Evasion — Diamorphine Rootkit
+
+### Attack
+
+The Diamorphine Linux rootkit was deployed to simulate:
+
+* hidden processes
+* hidden kernel module activity
+* defense evasion behavior
+
+### Detection
+
+Detection methods included:
+
+* hidden process detection
+* kernel anomaly monitoring
+* process visibility inconsistencies
+
+### MITRE ATT&CK
+
+| Technique      | ID    |
+| -------------- | ----- |
+| Rootkit        | T1014 |
+| Hide Artifacts | T1564 |
+
+---
